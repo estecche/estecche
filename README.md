@@ -15,5 +15,5 @@ Definitely, something that I need to be proficient at. So far I like it and it h
 I started a while ago with this, and yes, I love this world of 0s and 1s. I am very lucky because I have participated in very interesting projects with a lot of requirements, analysis, and then of course the coding part.
 Across all these years I have learned Unix, C, and from there, trying to be the best, one line of code at a time.
 
-Email: estecche@gmail.com
-Skype: estecche
+### Email: estecche@gmail.com
+### Skype: estecche
